@@ -2,7 +2,7 @@ import React from "react";
 import Main from "./Pages/Main/index";
 
 function App() {
-	//saaasdfadfs
+	//adsfaasdf
 	return (
 		<div className="">
 			<Main />
