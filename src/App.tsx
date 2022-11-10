@@ -2,8 +2,9 @@ import React from "react";
 import Main from "./Pages/Main/index";
 
 function App() {
+	//saa
 	return (
-		<div className="App">
+		<div className="">
 			<Main />
 		</div>
 	);
