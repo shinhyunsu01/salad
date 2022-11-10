@@ -1,0 +1,552 @@
+[
+	{ "id": 1, "name": "병아리콩", "cur_amount": 6, "tag": "창고", "unit": "봉" },
+	{
+		"id": 2,
+		"name": "스위트콘",
+		"cur_amount": 2,
+		"tag": "창고",
+		"unit": "박스"
+	},
+	{ "id": 3, "name": "올리브", "cur_amount": 4, "tag": "창고", "unit": "박스" },
+	{
+		"id": 4,
+		"name": "할라피뇨",
+		"cur_amount": 1,
+		"tag": "창고",
+		"unit": "박스"
+	},
+	{ "id": 5, "name": "올리브유", "cur_amount": 2, "tag": "창고", "unit": "개" },
+
+	{ "id": 6, "name": "새우", "cur_amount": 15, "tag": "냉동", "unit": "개" },
+	{
+		"id": 7,
+		"name": "훈제연어",
+		"cur_amount": 2,
+		"tag": "냉동",
+		"unit": "박스"
+	},
+	{ "id": 8, "name": "우삼겹", "cur_amount": 12, "tag": "냉동", "unit": "개" },
+	{
+		"id": 9,
+		"name": "닭가슴살",
+		"cur_amount": 20,
+		"tag": "냉동",
+		"unit": "개"
+	},
+	{
+		"id": 10,
+		"name": "아보카s도",
+		"cur_amount": 5,
+		"tag": "냉동",
+		"unit": "개"
+	},
+	{
+		"id": 11,
+		"name": "보코치니",
+		"cur_amount": 4,
+		"tag": "냉동",
+		"unit": "팩"
+	},
+
+	{ "id": 12, "name": "수세미", "cur_amount": 4, "tag": "창고1", "unit": "개" },
+	{
+		"id": 13,
+		"name": "키친타올",
+		"cur_amount": 6,
+		"tag": "창고1",
+		"unit": "팩"
+	},
+	{
+		"id": 14,
+		"name": "목장갑",
+		"cur_amount": 10,
+		"tag": "창고1",
+		"unit": "장"
+	},
+	{
+		"id": 15,
+		"name": "에그커터",
+		"cur_amount": 10,
+		"tag": "창고1",
+		"unit": "개"
+	},
+	{
+		"id": 16,
+		"name": "검정스쿱",
+		"cur_amount": 2,
+		"tag": "창고1",
+		"unit": "개"
+	},
+	{
+		"id": 17,
+		"name": "초록스쿱",
+		"cur_amount": 2,
+		"tag": "창고1",
+		"unit": "개"
+	},
+	{
+		"id": 18,
+		"name": "파란스쿱",
+		"cur_amount": 2,
+		"tag": "창고1",
+		"unit": "개"
+	},
+	{ "id": 19, "name": "백미", "cur_amount": 4, "tag": "창고1", "unit": "kg" },
+	{ "id": 20, "name": "흑미", "cur_amount": 4, "tag": "창고1", "unit": "kg" },
+	{ "id": 21, "name": "현미", "cur_amount": 4, "tag": "창고1", "unit": "kg" },
+	{ "id": 22, "name": "귀리", "cur_amount": 4, "tag": "창고1", "unit": "kg" },
+	{
+		"id": 23,
+		"name": "발사믹글레이즈",
+		"cur_amount": 1,
+		"tag": "창고1",
+		"unit": "개"
+	},
+	{ "id": 24, "name": "티백", "cur_amount": 30, "tag": "창고1", "unit": "개" },
+
+	{ "id": 25, "name": "양상추", "cur_amount": 20, "tag": "야채", "unit": "수" },
+	{ "id": 26, "name": "케일", "cur_amount": 20, "tag": "야채", "unit": "박스" },
+	{ "id": 27, "name": "상추", "cur_amount": 20, "tag": "야채", "unit": "박스" },
+	{
+		"id": 28,
+		"name": "카이피라",
+		"cur_amount": 20,
+		"tag": "야채",
+		"unit": "개"
+	},
+	{
+		"id": 29,
+		"name": "프릴아이스",
+		"cur_amount": 20,
+		"tag": "야채",
+		"unit": "개"
+	},
+	{
+		"id": 30,
+		"name": "버터헤드",
+		"cur_amount": 20,
+		"tag": "야채",
+		"unit": "개"
+	},
+
+	{
+		"id": 31,
+		"name": "새송이버섯",
+		"cur_amount": 2,
+		"tag": "냉장1",
+		"unit": "박스"
+	},
+	{ "id": 32, "name": "가지", "cur_amount": 15, "tag": "냉장1", "unit": "개" },
+	{
+		"id": 33,
+		"name": "방울토마토",
+		"cur_amount": 2,
+		"tag": "냉장1",
+		"unit": "박스"
+	},
+	{ "id": 34, "name": "양파", "cur_amount": 1.5, "tag": "냉장1", "unit": "망" },
+	{
+		"id": 35,
+		"name": "그라나파다노",
+		"cur_amount": 1,
+		"tag": "냉장1",
+		"unit": "밧드"
+	},
+	{
+		"id": 36,
+		"name": "베이컨칩",
+		"cur_amount": 2,
+		"tag": "냉장1",
+		"unit": "밧드"
+	},
+	{ "id": 37, "name": "참치캔", "cur_amount": 4, "tag": "냉장1", "unit": "캔" },
+
+	{
+		"id": 38,
+		"name": "쇼핑백중",
+		"cur_amount": 2,
+		"tag": "부재료",
+		"unit": "박스"
+	},
+	{
+		"id": 39,
+		"name": "쇼핑백대",
+		"cur_amount": 1,
+		"tag": "부재료",
+		"unit": "박스"
+	},
+	{
+		"id": 40,
+		"name": "생분해포크",
+		"cur_amount": 1,
+		"tag": "부재료",
+		"unit": "박스"
+	},
+	{
+		"id": 41,
+		"name": "포장용기",
+		"cur_amount": 10,
+		"tag": "부재료",
+		"unit": "줄"
+	},
+
+	{
+		"id": 42,
+		"name": "오리엔탈",
+		"cur_amount": 200,
+		"tag": "드레싱",
+		"unit": "개"
+	},
+	{
+		"id": 43,
+		"name": "발사믹",
+		"cur_amount": 100,
+		"tag": "드레싱",
+		"unit": "개"
+	},
+	{
+		"id": 44,
+		"name": "렌치",
+		"cur_amount": 100,
+		"tag": "드레싱",
+		"unit": "개"
+	},
+	{
+		"id": 45,
+		"name": "스리라차",
+		"cur_amount": 80,
+		"tag": "드레싱",
+		"unit": "개"
+	},
+	{ "id": 46, "name": "유자", "cur_amount": 60, "tag": "드레싱", "unit": "개" },
+	{
+		"id": 47,
+		"name": "요거트",
+		"cur_amount": 60,
+		"tag": "드레싱",
+		"unit": "개"
+	},
+
+	{ "id": 48, "name": "유니랩", "cur_amount": 1, "tag": "창고2", "unit": "롤" },
+	{
+		"id": 49,
+		"name": "손소독제",
+		"cur_amount": 2,
+		"tag": "창고2",
+		"unit": "개"
+	},
+	{
+		"id": 50,
+		"name": "후라이팬",
+		"cur_amount": 5,
+		"tag": "창고2",
+		"unit": "개"
+	},
+	{ "id": 51, "name": "진공팩", "cur_amount": 2, "tag": "창고2", "unit": "팩" },
+	{ "id": 52, "name": "행주", "cur_amount": 2, "tag": "창고2", "unit": "박스" },
+	{
+		"id": 53,
+		"name": "위생장갑",
+		"cur_amount": 4,
+		"tag": "창고2",
+		"unit": "박스"
+	},
+	{
+		"id": 54,
+		"name": "목긴장갑",
+		"cur_amount": 4,
+		"tag": "창고2",
+		"unit": "개"
+	},
+	{
+		"id": 55,
+		"name": "니트릴s",
+		"cur_amount": 2,
+		"tag": "창고2",
+		"unit": "박스"
+	},
+	{
+		"id": 56,
+		"name": "니트릴m",
+		"cur_amount": 2,
+		"tag": "창고2",
+		"unit": "kg"
+	},
+	{
+		"id": 57,
+		"name": "파란봉투",
+		"cur_amount": 50,
+		"tag": "창고2",
+		"unit": "장"
+	},
+	{
+		"id": 58,
+		"name": "검정봉투",
+		"cur_amount": 50,
+		"tag": "창고2",
+		"unit": "장"
+	},
+	{ "id": 59, "name": "냅킨", "cur_amount": 20, "tag": "창고2", "unit": "팩" },
+	{
+		"id": 60,
+		"name": "핸드타올",
+		"cur_amount": 2,
+		"tag": "창고2",
+		"unit": "롤"
+	},
+	{ "id": 61, "name": "롤백중", "cur_amount": 2, "tag": "창고2", "unit": "롤" },
+	{ "id": 62, "name": "롤백대", "cur_amount": 2, "tag": "창고2", "unit": "롤" },
+
+	{
+		"id": 63,
+		"name": "목살(kg)",
+		"cur_amount": 20,
+		"tag": "주방1",
+		"unit": "kg"
+	},
+	{
+		"id": 64,
+		"name": "로젠리코타",
+		"cur_amount": 2,
+		"tag": "주방1",
+		"unit": "개"
+	},
+	{
+		"id": 65,
+		"name": "매일리코타",
+		"cur_amount": 4,
+		"tag": "주방1",
+		"unit": "개"
+	},
+	{
+		"id": 66,
+		"name": "다진마늘",
+		"cur_amount": 1,
+		"tag": "주방1",
+		"unit": "팩"
+	},
+	{ "id": 67, "name": "식용유", "cur_amount": 8, "tag": "주방1", "unit": "개" },
+	{
+		"id": 68,
+		"name": "양파후레이크",
+		"cur_amount": 5,
+		"tag": "주방1",
+		"unit": "봉지"
+	},
+	{ "id": 69, "name": "계란", "cur_amount": 48, "tag": "주방1", "unit": "판" },
+	{
+		"id": 70,
+		"name": "아몬드",
+		"cur_amount": 15,
+		"tag": "주방1",
+		"unit": "개"
+	},
+	{ "id": 72, "name": "파스타", "cur_amount": 2, "tag": "주방1", "unit": "통" },
+	{
+		"id": 73,
+		"name": "고구마",
+		"cur_amount": 10,
+		"tag": "주방1",
+		"unit": "kg"
+	},
+	{ "id": 74, "name": "감자", "cur_amount": 5, "tag": "주방1", "unit": "kg" },
+	{
+		"id": 75,
+		"name": "그레놀라",
+		"cur_amount": 3,
+		"tag": "주방1",
+		"unit": "봉"
+	},
+
+	{
+		"id": 76,
+		"name": "주방세제",
+		"cur_amount": 3,
+		"tag": "주방2",
+		"unit": "통"
+	},
+	{
+		"id": 77,
+		"name": "나오크린",
+		"cur_amount": 0.5,
+		"tag": "주방2",
+		"unit": "통"
+	},
+	{
+		"id": 78,
+		"name": "피비원",
+		"cur_amount": 0.5,
+		"tag": "주방2",
+		"unit": "통"
+	},
+	{
+		"id": 79,
+		"name": "철수세미",
+		"cur_amount": 6,
+		"tag": "주방2",
+		"unit": "개"
+	},
+	{
+		"id": 80,
+		"name": "천연수세미",
+		"cur_amount": 4,
+		"tag": "주방2",
+		"unit": "개"
+	},
+	{
+		"id": 81,
+		"name": "고무장갑",
+		"cur_amount": 4,
+		"tag": "주방2",
+		"unit": "개"
+	},
+	{
+		"id": 82,
+		"name": "일쓰봉투",
+		"cur_amount": 10,
+		"tag": "주방2",
+		"unit": "장"
+	},
+
+	{
+		"id": 83,
+		"name": "네임팬",
+		"cur_amount": 10,
+		"tag": "주방3",
+		"unit": "개"
+	},
+	{ "id": 84, "name": "라벨지", "cur_amount": 2, "tag": "주방3", "unit": "롤" },
+	{
+		"id": 85,
+		"name": "테이프",
+		"cur_amount": 10,
+		"tag": "주방3",
+		"unit": "개"
+	},
+	{
+		"id": 86,
+		"name": "감열지",
+		"cur_amount": 10,
+		"tag": "주방3",
+		"unit": "롤"
+	},
+	{
+		"id": 87,
+		"name": "스티커",
+		"cur_amount": 3000,
+		"tag": "주방3",
+		"unit": "장"
+	},
+	{
+		"id": 88,
+		"name": "포스트잇",
+		"cur_amount": 1,
+		"tag": "주방3",
+		"unit": "개"
+	},
+	{
+		"id": 89,
+		"name": "r3미니백",
+		"cur_amount": 4,
+		"tag": "주방3",
+		"unit": "박스"
+	},
+
+	{ "id": 90, "name": "해동지", "cur_amount": 5, "tag": "주방4", "unit": "팩" },
+	{ "id": 91, "name": "바질", "cur_amount": 3, "tag": "주방4", "unit": "통" },
+	{ "id": 92, "name": "타임", "cur_amount": 3, "tag": "주방4", "unit": "통" },
+	{
+		"id": 93,
+		"name": "건로즈마리",
+		"cur_amount": 3,
+		"tag": "주방4",
+		"unit": "봉"
+	},
+	{
+		"id": 94,
+		"name": "후리가케",
+		"cur_amount": 2,
+		"tag": "주방4",
+		"unit": "봉"
+	},
+	{
+		"id": 95,
+		"name": "수비드티백",
+		"cur_amount": 30,
+		"tag": "주방4",
+		"unit": "팩"
+	},
+	{
+		"id": 96,
+		"name": "2배사과식초",
+		"cur_amount": 1.8,
+		"tag": "주방4",
+		"unit": "L"
+	},
+	{
+		"id": 97,
+		"name": "양조식초",
+		"cur_amount": 2,
+		"tag": "주방4",
+		"unit": "통"
+	},
+	{ "id": 98, "name": "진간장", "cur_amount": 1, "tag": "주방4", "unit": "통" },
+	{ "id": 99, "name": "후추", "cur_amount": 3, "tag": "주방4", "unit": "봉" },
+	{
+		"id": 100,
+		"name": "허브솔트",
+		"cur_amount": 6,
+		"tag": "주방4",
+		"unit": "개"
+	},
+	{
+		"id": 101,
+		"name": "설탕",
+		"cur_amount": 1,
+		"tag": "주방4",
+		"unit": "봉지"
+	},
+	{
+		"id": 102,
+		"name": "소금",
+		"cur_amount": 1,
+		"tag": "주방4",
+		"unit": "봉지"
+	},
+	{
+		"id": 103,
+		"name": "마요네즈",
+		"cur_amount": 1,
+		"tag": "주방4",
+		"unit": "봉지"
+	},
+	{
+		"id": 104,
+		"name": "허니머스타드",
+		"cur_amount": 1,
+		"tag": "주방4",
+		"unit": "봉지"
+	},
+	{
+		"id": 105,
+		"name": "파프리카시즈닝",
+		"cur_amount": 3,
+		"tag": "주방4",
+		"unit": "통"
+	},
+
+	{
+		"id": 106,
+		"name": "종이컵",
+		"cur_amount": 10,
+		"tag": "셀프바",
+		"unit": "줄"
+	},
+	{
+		"id": 107,
+		"name": "물티슈",
+		"cur_amount": 4,
+		"tag": "셀프바",
+		"unit": "개"
+	}
+]

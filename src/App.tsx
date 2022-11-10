@@ -2,9 +2,8 @@ import React from "react";
 import Main from "./Pages/Main/index";
 
 function App() {
-	//adsfaasdf
 	return (
-		<div className="">
+		<div className="w-full h-screen ">
 			<Main />
 		</div>
 	);
